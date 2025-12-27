@@ -27,3 +27,10 @@ workflows in a controlled and authorized environment.
 
 ## 📂 Project Structure
 
+AEGIS-SECOPS-SUITE/
+|--core/ #Core audit & scoring engines (Python Scripts)
+|--offensive/ #Ethical reconnaissance tools (Bash scripts)
+|--framework/ #Menu-driven security framework (Bash)
+|--compliance/ #CIS benchmark mapping & policies [.gitkeep added]
+|--reports/ #Generated reports (JSON , CSV) [.gitkeep added]
+|--README.md #Project documentation
