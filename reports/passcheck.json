@@ -1,0 +1,10 @@
+{
+    "generated_on": "2025-12-27 02:17:58.010154",
+    "password_policy": "#\tPASS_MAX_DAYS\tMaximum number of days a password may be used.\n#\tPASS_MIN_DAYS\tMinimum number of days allowed between password changes.\n#\tPASS_WARN_AGE\tNumber of days warning given before a password expires.\nPASS_MAX_DAYS\t99999\nPASS_MIN_DAYS\t0\nPASS_WARN_AGE\t7",
+    "uid_0_accounts": "root",
+    "empty_password_accounts": "",
+    "ssh_root_login": "",
+    "ssh_password_authentication": "",
+    "pam_password_policy": "",
+    "sudo_users": "kali"
+}
