@@ -27,7 +27,7 @@ workflows in a controlled and authorized environment.
 
 ## 📁 Project Structure
 
-AEGIS-SECOPS-SUITE/
+    AEGIS-SECOPS-SUITE/
     ├── core/                 # Core audit & risk scoring engines (Python)
     ├── offensive/            # Ethical reconnaissance tools (lab-only)
     ├── framework/            # Menu-driven security framework (Bash)
